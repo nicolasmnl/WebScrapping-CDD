@@ -578,7 +578,7 @@ def build_csv(nome, genero, data_nasc, info_plen_com, gastos_par_gab, salario, q
                           gastos_par_gab[1][5], gastos_par_gab[1][6],gastos_par_gab[1][7],gastos_par_gab[1][8],gastos_par_gab[1][9],
                           gastos_par_gab[1][10],gastos_par_gab[1][11],
                           gastos_par_gab[2],
-                          gastos_par_gab[3][0],gastos_par_gab[3][2],gastos_par_gab[3][2],gastos_par_gab[3][3],gastos_par_gab[3][4],
+                          gastos_par_gab[3][0],gastos_par_gab[3][1],gastos_par_gab[3][2],gastos_par_gab[3][3],gastos_par_gab[3][4],
                           gastos_par_gab[3][5], gastos_par_gab[3][6],gastos_par_gab[3][7],gastos_par_gab[3][8],gastos_par_gab[3][9],
                           gastos_par_gab[3][10],gastos_par_gab[3][11], 
                           salario, qtd_viagens]
